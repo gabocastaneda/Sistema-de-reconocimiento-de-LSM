@@ -25,7 +25,7 @@ frames_video = []
 grabando = False
 mano_detectada_anteriormente = False
 archivo_csv = "dataset_lsm.csv"
-clase_actual = ""
+clase_actual = "5"
 
 # Diccionario para almacenar el estado de los dedos en tiempo real
 estado_manos = {"derecha": [0, 0, 0, 0, 0], "izquierda": [0, 0, 0, 0, 0]}
