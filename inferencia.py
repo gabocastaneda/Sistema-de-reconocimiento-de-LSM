@@ -14,7 +14,7 @@ bases = [6, 10, 14, 18]
 puntas = [8, 12, 16, 20]
 
 # Archivo del modelo final
-modelo = "modelos\kkn\modelo.pkl"
+modelo = "modelo.pkl"
 
 # Variables globales
 prediccion_actual = ""
